@@ -73,13 +73,11 @@ You will also need to build the two tests in the `CheckoutForm.test.js` file and
 * [ ] Build a custom hook called `useForm`, and use it in your CheckoutForm component to control the form's stateful logic.
 * [ ] You built a useForm hook in the guided project this week. You will probably need to use that as a guide to complete this step. However, try and build it out first before you peek at the guided project. And *do not* copy/paste directly from the guided project!_
 
-
-
-
 #### Testing the Checkout Form
 * [ ] Run the test runner and ensure that `src/components/CheckoutForm.test.js` is correctly called.
 * [ ] Fill out code necessary to test that that Checkout form renders without errors.
 * [ ] Fill out code necessary to test that when all form inputs are filled with valid data, a success message appears.
+
 * [ ] Make sure the tests are passing, and make sure you can cause the tests to fail purposefully, so that you know the tests are truly working.
 
 **Notes:**
@@ -89,14 +87,6 @@ You will also need to build the two tests in the `CheckoutForm.test.js` file and
 * In your solution, it is essential that you follow best practices and produce clean and professional results.
 * Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work.
 * It is better to submit a challenge that meets MVP than one that attempts too much and does not.
-
-
-
-
-
-
-
-
 
 ### Task 4: Stretch Goals
 
