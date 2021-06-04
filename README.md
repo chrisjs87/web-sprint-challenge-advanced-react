@@ -14,7 +14,7 @@ _Sprint challenges open at Midnight PST on Thursday and close at 5pm PST on Frid
 
 ## Introduction
 
-In this project, you will add class components to your a basic ecommerce site that allow you to request product data from a server and render that data. You will also implement the ablitity to add products to a shopping cart.
+In this project, you will add class components to your a basic ecommerce site that allow you to request product data from a server and render that data. You will also implement the ability to add products to a shopping cart.
 
 In meeting the minimum viable product (MVP) specifications listed below, your project should look like the solution examples below:
 
@@ -79,6 +79,14 @@ You will also need to build the two tests in the `CheckoutForm.test.js` file and
 * In your solution, it is essential that you follow best practices and produce clean and professional results.
 * Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work.
 * It is better to submit a challenge that meets MVP than one that attempts too much and does not.
+
+
+
+
+
+
+
+
 
 ### Task 4: Stretch Goals
 
