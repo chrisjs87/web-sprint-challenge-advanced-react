@@ -14,7 +14,7 @@ _Sprint challenges open at Midnight PST on Thursday and close at 5pm PST on Frid
 
 ## Introduction
 
-In this project, you will add class components to your a basic ecommerce site that allow you to request product data from a server and render that data. You will also implement the ablitity to add products to a shopping cart.
+In this project, you will add class components to your a basic ecommerce site that allow you to request product data from a server and render that data. You will also implement the ability to add products to a shopping cart.
 
 In meeting the minimum viable product (MVP) specifications listed below, your project should look like the solution examples below:
 
@@ -43,6 +43,13 @@ You will also need to build the two tests in the `CheckoutForm.test.js` file and
 * [ ] Push your first commit: `git commit --allow-empty -m "first commit" && git push`
 * [ ] Check to see that Codegrade has accepted your git submission.
 
+
+
+
+
+
+
+
 ### Task 3: Project Requirements
 
  Your finished project must include all of the following requirements.
@@ -70,6 +77,7 @@ You will also need to build the two tests in the `CheckoutForm.test.js` file and
 * [ ] Run the test runner and ensure that `src/components/CheckoutForm.test.js` is correctly called.
 * [ ] Fill out code necessary to test that that Checkout form renders without errors.
 * [ ] Fill out code necessary to test that when all form inputs are filled with valid data, a success message appears.
+
 * [ ] Make sure the tests are passing, and make sure you can cause the tests to fail purposefully, so that you know the tests are truly working.
 
 **Notes:**
